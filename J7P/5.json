@@ -1,0 +1,86 @@
+{
+    "data": [
+        {
+            "name": "Cilok x2",
+            "description": "Cilok",
+            "amount": 10000,
+            "discount": 0,
+            "normal_amount": 0,
+            "image": "https://ibb.co/9nRsLWn"
+        },
+        {
+            "name": "Mie Ayam",
+            "description": "Mie Ayam",
+            "amount": 17000,
+            "discount": 0,
+            "normal_amount": 0,
+            "image": "https://ibb.co/kJS4B5Y"
+        },
+        {
+            "name": "Mie Ayam Bakso",
+            "description": "Mie Ayam Bakso",
+            "amount": 23000,
+            "discount": 0,
+            "normal_amount": 0,
+            "image": "https://ibb.co/NWDrQrn"
+        },
+        {
+            "name": "Kwetiau",
+            "description": "Kwetiau",
+            "amount": 15000,
+            "discount": 0,
+            "normal_amount": 0,
+            "image": "https://ibb.co/Kwk5887"
+        },
+        {
+            "name": "Seblak",
+            "description": "Seblak",
+            "amount": 12000,
+            "discount": 0,
+            "normal_amount": 0,
+            "image": "https://ibb.co/QDH81c2"
+        },
+        {
+            "name": "Pulas 15k",
+            "description": "Pulas 15k",
+            "amount": 17000,
+            "discount": 0,
+            "normal_amount": 0,
+            "image": "https://ibb.co/kV7tWw2"
+        },
+        {
+            "name": "Token Listrik 50k",
+            "description": "Token Listrik 50k",
+            "amount": 50000,
+            "discount": 3.85,
+            "normal_amount": 52000,
+            "image": "https://ibb.co/VvWCxQ4"
+        },
+        {
+            "name": "Token Listrik 100k",
+            "description": "Token Listrik 100k",
+            "amount": 100000,
+            "discount": 2,
+            "normal_amount": 102000,
+            "image": "https://ibb.co/VvWCxQ4"
+        },
+        {
+            "name": "Token Listrik 200k",
+            "description": "Token Listrik 200k",
+            "amount": 200000,
+            "discount": 1.5,
+            "normal_amount": 203000,
+            "image": "https://ibb.co/VvWCxQ4"
+        },
+        {
+            "name": "Pulsa 50k",
+            "description": "Pulsa 50k",
+            "amount": 52000,
+            "discount": 0,
+            "normal_amount": 0,
+            "image": "https://ibb.co/kV7tWw2"
+        }
+    ],
+    "customer_paying_fee": false,
+    "expired": "2021-09-05 23:00:00"
+}
