@@ -1,10 +1,22 @@
 [
     {
         "name": "Catalog Flash Sale 1",
-        "id": 123
+        "id": 1
     },
     {
         "name": "Catalog Flash Sale 2",
-        "id": 236
+        "id": 2
+    },
+    {
+        "name": "Catalog Flash Sale 3",
+        "id": 3
+    },
+    {
+        "name": "Catalog Flash Sale 4",
+        "id": 4
+    },
+    {
+        "name": "Food, Pulsa, Tagihan",
+        "id": 5
     }
 ]
