@@ -1,21 +1,97 @@
 {
     "data": [
         {
-            "name": "Kopi",
-            "description": "Kenangan",
-            "amount": 9000,
-            "discount": 10,
-            "normal_amount": 10000,
-            "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/A_small_cup_of_coffee.JPG"
+            "name": "Cilok x2",
+            "description": "Cilok",
+            "amount": 10000,
+            "discount": 0,
+            "normal_amount": 0,
+            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1625454189/PV2K_01_ohswl8.jpg",
+            "weight": 1000
         },
         {
-            "name": "Pizza",
-            "description": "Numeru Uno",
+            "name": "Mie Ayam",
+            "description": "Mie Ayam",
+            "amount": 17000,
+            "discount": 0,
+            "normal_amount": 0,
+            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1625454284/PV2K_02_qrq2ha.jpg",
+            "weight": 1000
+        },
+        {
+            "name": "Mie Ayam Bakso",
+            "description": "Mie Ayam Bakso",
+            "amount": 23000,
+            "discount": 0,
+            "normal_amount": 0,
+            "image": "https://i.ibb.co/SVYcWc7/images-6.jpg",
+            "weight": 1000
+        },
+        {
+            "name": "Kwetiau",
+            "description": "Kwetiau",
+            "amount": 15000,
+            "discount": 0,
+            "normal_amount": 0,
+            "image": "https://i.ibb.co/Dpy1jjk/images-7.jpg",
+            "weight": 1000
+        },
+        {
+            "name": "Seblak",
+            "description": "Seblak",
+            "amount": 12000,
+            "discount": 0,
+            "normal_amount": 0,
+            "image": "https://i.ibb.co/xFgmRsp/images-8.jpg",
+            "weight": 1000
+        },
+        {
+            "name": "Pulas 15k",
+            "description": "Pulas 15k",
+            "amount": 17000,
+            "discount": 0,
+            "normal_amount": 0,
+            "image": "https://i.ibb.co/bj0k8C5/cf-shopee-co.jpg",
+            "weight": 1000
+        },
+        {
+            "name": "Token Listrik 50k",
+            "description": "Token Listrik 50k",
             "amount": 50000,
-            "discount": 50,
-            "normal_amount": 100000,
-            "image": "https://www.operafoods.com.au/assets/full/LSMM-L.jpg?20200711030448"
+            "discount": 3.85,
+            "normal_amount": 52000,
+            "image": "https://i.ibb.co/4jZS2Yr/images-9.jpg",
+            "weight": 1000
+        },
+        {
+            "name": "Token Listrik 100k",
+            "description": "Token Listrik 100k",
+            "amount": 100000,
+            "discount": 2,
+            "normal_amount": 102000,
+            "image": "https://i.ibb.co/4jZS2Yr/images-9.jpg",
+            "weight": 1000
+        },
+        {
+            "name": "Token Listrik 200k",
+            "description": "Token Listrik 200k",
+            "amount": 200000,
+            "discount": 1.5,
+            "normal_amount": 203000,
+            "image": "https://i.ibb.co/4jZS2Yr/images-9.jpg",
+            "weight": 1000
+        },
+        {
+            "name": "Pulsa 50k",
+            "description": "Pulsa 50k",
+            "amount": 52000,
+            "discount": 0,
+            "normal_amount": 0,
+            "image": "https://i.ibb.co/bj0k8C5/cf-shopee-co.jpg",
+            "weight": 1000
         }
     ],
-    "customer_paying_fee": true
+    "customer_paying_fee": false,
+    "expired": "2021-09-05 23:00:00",
+    "origin": "2087"
 }
