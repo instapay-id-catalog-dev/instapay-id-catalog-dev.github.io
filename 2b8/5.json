@@ -7,8 +7,7 @@
             "discount": 0,
             "normal_amount": 0,
             "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1625454189/PV2K_01_ohswl8.jpg",
-            "weight": 1000,
-            "type": "product"
+            "weight": 1000
         },
         {
             "name": "Mie Ayam",
@@ -17,8 +16,7 @@
             "discount": 0,
             "normal_amount": 0,
             "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1625454284/PV2K_02_qrq2ha.jpg",
-            "weight": 1000,
-            "type": "product"
+            "weight": 1000
         },
         {
             "name": "Mie Ayam Bakso",
@@ -27,8 +25,7 @@
             "discount": 0,
             "normal_amount": 0,
             "image": "https://i.ibb.co/SVYcWc7/images-6.jpg",
-            "weight": 1000,
-            "type": "product"
+            "weight": 1000
         },
         {
             "name": "Kwetiau",
@@ -37,8 +34,7 @@
             "discount": 0,
             "normal_amount": 0,
             "image": "https://i.ibb.co/Dpy1jjk/images-7.jpg",
-            "weight": 1000,
-            "type": "product"
+            "weight": 1000
         },
         {
             "name": "Seblak",
@@ -47,8 +43,7 @@
             "discount": 0,
             "normal_amount": 0,
             "image": "https://i.ibb.co/xFgmRsp/images-8.jpg",
-            "weight": 1000,
-            "type": "product"
+            "weight": 1000
         },
         {
             "name": "Pulas 15k",
@@ -57,8 +52,7 @@
             "discount": 0,
             "normal_amount": 0,
             "image": "https://i.ibb.co/bj0k8C5/cf-shopee-co.jpg",
-            "weight": 1000,
-            "type": "product"
+            "weight": 1000
         },
         {
             "name": "Token Listrik 50k",
@@ -67,8 +61,7 @@
             "discount": 3.85,
             "normal_amount": 52000,
             "image": "https://i.ibb.co/4jZS2Yr/images-9.jpg",
-            "weight": 1000,
-            "type": "product"
+            "weight": 1000
         },
         {
             "name": "Token Listrik 100k",
@@ -77,8 +70,7 @@
             "discount": 2,
             "normal_amount": 102000,
             "image": "https://i.ibb.co/4jZS2Yr/images-9.jpg",
-            "weight": 1000,
-            "type": "product"
+            "weight": 1000
         },
         {
             "name": "Token Listrik 200k",
@@ -87,8 +79,7 @@
             "discount": 1.5,
             "normal_amount": 203000,
             "image": "https://i.ibb.co/4jZS2Yr/images-9.jpg",
-            "weight": 1000,
-            "type": "product"
+            "weight": 1000
         },
         {
             "name": "Pulsa 50k",
@@ -97,12 +88,12 @@
             "discount": 0,
             "normal_amount": 0,
             "image": "https://i.ibb.co/bj0k8C5/cf-shopee-co.jpg",
-            "weight": 1000,
-            "type": "product"
+            "weight": 1000
         }
     ],
     "customer_paying_fee": false,
     "expired": "2021-09-05 23:00:00",
     "origin": "2087",
-    "support_delivery": false
+    "support_delivery": false,
+    "type":"product"
 }
