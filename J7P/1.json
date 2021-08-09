@@ -19,6 +19,16 @@
             "image": "https://www.operafoods.com.au/assets/full/LSMM-L.jpg?20200711030448",
             "weight": 2000,
             "type": "product"
+        },
+        {
+            "name": "Massage",
+            "description": "Massage",
+            "amount": 100000,
+            "discount": 0,
+            "normal_amount": 100000,
+            "image": "https://www.operafoods.com.au/assets/full/LSMM-L.jpg?20200711030448",
+            "weight": 0,
+            "type": "service"
         }
     ],
     "customer_paying_fee": true,
