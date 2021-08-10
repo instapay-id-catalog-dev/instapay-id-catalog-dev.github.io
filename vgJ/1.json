@@ -1,0 +1,36 @@
+{
+    "data": [
+        {
+            "name": "Tour",
+            "description": "Tour",
+            "amount": 1000,
+            "discount": 0,
+            "normal_amount": 1000,
+            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1628593125/dev/download_1_hieal3.jpg",
+            "weight": 0
+        },
+        {
+            "name": "Pijat",
+            "description": "Pijat",
+            "amount": 2000,
+            "discount": 0,
+            "normal_amount": 2000,
+            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1628593126/dev/sehat-dengan-terapi-pijat-yang-tepat_uvg2bw.jpg",
+            "weight": 0
+        },
+        {
+            "name": "Sewa Vila",
+            "description": "Sewa Vila",
+            "amount": 3000,
+            "discount": 0,
+            "normal_amount": 3000,
+            "image": "https://res.cloudinary.com/dguakdcpw/image/upload/v1628593125/dev/download_kid9uf.jpg",
+            "weight": 0
+        }
+    ],
+    "customer_paying_fee": true,
+    "expired": "2021-08-20 21:00:00",
+    "origin": "",
+    "support_delivery": false,
+    "type":"service"
+}
