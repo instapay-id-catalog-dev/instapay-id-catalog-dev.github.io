@@ -21,5 +21,7 @@
     ],
     "customer_paying_fee": true,
     "expired": "2021-08-20 21:00:00",
-    "origin": "2087"
+    "origin": "2087",
+    "support_delivery": true,
+    "type":"product"
 }
